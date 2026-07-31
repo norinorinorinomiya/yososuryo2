@@ -1,0 +1,1 @@
+{"name":"競馬期待値分析","short_name":"期待値分析","description":"市場評価と自分の能力評価を比較し、期待値の高い馬を見つける個人用競馬予想アプリ","start_url":".","display":"standalone","background_color":"#0a0f0d","theme_color":"#0b3d2e","lang":"en","scope":".","orientation":"portrait","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
